@@ -17,10 +17,8 @@ Me chamo Marcos jesus, tenho 17 anos e sou natural de santana de parnaiba. Concl
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
