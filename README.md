@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo [Marcos jesus], tenho 17 anos e sou natural de santana de parnaiba. Concluí o ensino médio no C.M colaço, ARDUINO e robotica 
+Me chamo Marcos jesus, tenho 17 anos e sou natural de santana de parnaiba. Concluí o ensino médio no C.M colaço, ARDUINO e robotica 
 
 
 
@@ -17,7 +17,7 @@ Me chamo [Marcos jesus], tenho 17 anos e sou natural de santana de parnaiba. Con
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
 
 <br/>
 <br/>
