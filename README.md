@@ -9,7 +9,7 @@ Me chamo Marcos jesus, tenho 17 anos e sou natural de santana de parnaiba. Concl
 ### 🤖 Linguagens e Tecnologias
 
 
-/>
+
 <img 
     align="left" 
     alt="Python" 
