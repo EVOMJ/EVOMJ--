@@ -28,7 +28,7 @@ src="https://peteletrica.uff.br/wp-content/uploads/sites/509/2022/10/Arduino_Log
 
 <img        width="30px" 
     style="padding-right: 10px;"
-    src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/c-adesivo-sticker.png" alt="C++ adesivo sticker"/>!
+    src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/c-adesivo-sticker.png" alt="C++ adesivo sticker"/>
 
 
 
