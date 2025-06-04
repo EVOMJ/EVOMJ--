@@ -19,12 +19,11 @@ Me chamo Marcos jesus, tenho 17 anos e sou natural de santana de parnaiba. Concl
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-ƪ(˘⌣˘)ʃ
 
 <img
        width="30px" 
     style="padding-right: 10px;" 
-src="https://peteletrica.uff.br/wp-content/uploads/sites/509/2022/10/Arduino_Logo.svg_.png" alt="Arduino | PET-Elétrica UFF"/>! 
+src="https://peteletrica.uff.br/wp-content/uploads/sites/509/2022/10/Arduino_Logo.svg_.png" alt="Arduino | PET-Elétrica UFF"/>
 
 <img        width="30px" 
     style="padding-right: 10px;"
